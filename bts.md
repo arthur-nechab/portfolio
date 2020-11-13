@@ -1,29 +1,10 @@
 ---
 layout: page
-title: BTS
+title: BTS SIO (SISR)
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## BTS SIO, option Solutions d’infrastructure, systèmes et réseaux
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Le titulaire du BTS SIO ayant suivi le parcours « Solutions d’infrastructure, systèmes et réseaux » est chargé d’installer, d’administrer et gérer la maintenance des équipements et des réseaux informatiques. Il intervient au niveau de la configuration, le suivi, l’intégration, la sécurisation et l’optimisation des serveurs, des postes clients et des équipements d’interconnexion.
 
-There are currently two themes built on Poole:
-
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Il aura également la tâche d’anticiper les besoins d’évolution de l’infrastructure, de maintenir la qualité des services informatiques et de proposer des solutions pour faire évoluer les services.
