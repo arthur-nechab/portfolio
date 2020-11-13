@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Arthur Nechab
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
@@ -42,11 +42,11 @@ nav:
 - title: BTS
   url: /bts
 
- - title: Portefeuille
-   url: /portefeuille
+- title: Portefeuille
+  url: /portefeuille
   
- - title: Situation
-   url: /situation
+- title: Situation
+  url: /situation
  
- - title: Stage
-   url: /stage
+- title: Stage
+  url: /stage
