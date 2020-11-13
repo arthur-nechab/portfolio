@@ -36,6 +36,9 @@ version: 3.0.0
 
 # Navbar page list
 nav:
+- title: CV
+  url: /cv
+
 - title: BTS
   url: /bts
 
@@ -43,13 +46,13 @@ nav:
   url: /portefeuille
   
 - title: E4
-  url: /_site/e4
+  url: /e4
 
 - title: E6
-  url: /_site/e6
+  url: /e6
  
 - title: Stage
   url: /stage
 
 - title: Veille
-  url: /archive
+  url: /veille
