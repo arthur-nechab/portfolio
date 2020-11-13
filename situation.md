@@ -1,29 +1,17 @@
 ---
 layout: page
-title: Situation
+title: M2L
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum risus nisi, bibendum tincidunt lorem blandit nec. Sed placerat, tellus eget suscipit finibus, leo justo fringilla nisi, at elementum tortor risus non elit. Nullam posuere augue nec augue vestibulum, id rutrum arcu maximus. Sed consectetur massa at enim elementum, vitae euismod ligula ullamcorper. Quisque imperdiet est sit amet placerat venenatis. Integer accumsan, nibh in accumsan tristique, urna leo luctus nisi, at rhoncus urna nisi ut lorem. Mauris a nibh nisi. Sed congue consectetur tellus. Nunc in suscipit mi. Cras tortor orci, suscipit a imperdiet sed, posuere a lorem. Sed bibendum metus at tincidunt mattis. Suspendisse ullamcorper tincidunt lorem a feugiat. Nulla at dolor congue est sagittis ullamcorper. Morbi tempus tempus faucibus. Phasellus finibus fringilla tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+- In hac habitasse platea dictumst.
+- Phasellus eu sapien sed eros molestie tincidunt non a nisi.
 
-There are currently two themes built on Poole:
+## Situation 1
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+Nunc consectetur diam non vestibulum posuere.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Situation 2
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Nunc consectetur diam non vestibulum posuere.
