@@ -43,10 +43,10 @@ nav:
   url: /portefeuille
   
 - title: E4
-  url: /e4
+  url: /_site/e4
 
 - title: E6
-  url: /e6
+  url: /_site/e6
  
 - title: Stage
   url: /stage
