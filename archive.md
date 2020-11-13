@@ -3,9 +3,9 @@ layout: default
 title: Archive
 ---
 
-# Archive
+# Télétravail
 
-Browse all posts by month and year.
+La veille technologique consiste à s'informer en continu sur les nouveautés du secteur informatique, les inventions des concurrents ainsi que les nouvelles technologies et ce dans le but d'être le meilleur dans son domaine.
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
