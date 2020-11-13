@@ -36,9 +36,6 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-- title: Veille
-  url: /archive
-
 - title: BTS
   url: /bts
 
@@ -50,3 +47,6 @@ nav:
  
 - title: Stage
   url: /stage
+
+- title: Veille
+  url: /archive
