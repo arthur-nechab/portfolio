@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Example
 ---
 
 **Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.
@@ -160,9 +160,3 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
-
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
