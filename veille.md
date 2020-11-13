@@ -8,7 +8,7 @@ La veille technologique consiste à s'informer en continu sur les nouveautés du
 - VPN
 - Outils de gestion à distance
 
-**Historique des articles :**
+## Historique des articles :
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
