@@ -1,6 +1,0 @@
----
-layout: page
-title: Compétences
----
-
-Veuillez trouver [ci-joint](https://drive.google.com/file/d/1F2Ndgj5vvlWvVB9IBK7F7FUn2aNlGTUE/view?usp=sharing) l'ensemble de mes compétences que j'ai acquis au cours de ma formation et de mes expériences professionnelles.
