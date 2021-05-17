@@ -1,8 +1,3 @@
----
-layout: post
-title: Example
----
-
 **Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.
 {: .message }
 
