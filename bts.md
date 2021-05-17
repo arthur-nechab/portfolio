@@ -36,3 +36,15 @@ Il aura également la tâche d’anticiper les besoins d’évolution de l’inf
 – Mathématiques
 – Algorithmique appliquée
 – Analyse économique, managériale et juridique des services informatiques
+
+[Contexte de la Maison des Ligues de Lorraine](#)
+
+## Situation 1 : Mise en place d’un système de supervision réseau (Librenms).
+
+- [Documentation technique]
+- [Schéma réseau]
+
+## Situation 2 : Haute disponibilité et redondance (pfSense).
+
+- [Documentation technique]
+- [Schéma réseau]
