@@ -12,6 +12,7 @@ Il aura également la tâche d’anticiper les besoins d’évolution de l’inf
 ## Contenu de la formation
 
 **Solutions d’infrastructure, systèmes et réseaux :**
+
 – Maintenance des accès utilisateurs
 – Conception des infrastructures réseaux
 – Exploitation des services
@@ -20,6 +21,7 @@ Il aura également la tâche d’anticiper les besoins d’évolution de l’inf
 – Projets personnalisés encadrés
 
 **Solutions informatiques :**
+
 – Support système des accès utilisateurs
 – Support réseau des accès utilisateurs
 – Exploitation des données
@@ -29,6 +31,7 @@ Il aura également la tâche d’anticiper les besoins d’évolution de l’inf
 – Intégration et adaptation d’un service
 
 **Pôle général – Culture générale et expression :**
+
 – Expression et communication en langue anglaise
 – Mathématiques
 – Algorithmique appliquée
