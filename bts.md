@@ -9,9 +9,7 @@ L’acronyme **SISR** signifie **Solutions d’infrastructure, systèmes et rés
 
 Il aura également la tâche d’anticiper les besoins d’évolution de l’infrastructure, de maintenir la qualité des services informatiques et de proposer des solutions pour faire évoluer les services.
 
-
-## Contenu de la formation
-
+# Contenu de la formation
 
 **Solutions d’infrastructure, systèmes et réseaux :**
 
