@@ -3,9 +3,13 @@ layout: default
 title: Veille
 ---
 
-La veille technologique consiste à s'informer en continu sur les nouveautés du secteur informatique, les inventions des concurrents ainsi que les nouvelles technologies et ce dans le but d'être le meilleur dans son domaine.
+La veille technologique consiste à surveiller les évolutions techniques, les innovations dans un secteur d’activité donné. La veille technologique comprend notamment la surveillance, la collecte, le partage et la diffusion d’information dans le but de les analyser et ainsi faire apparaitre des tendances et des corrélations. L’analyse des données collectées permet d’anticiper et de s’informer sur les changements en matière de recherche et développement.
 
-- IPv6
+## I. Présentation du Wifi
+
+## II. Tri et sélection d'articles en rapport avec le Wifi
+
+## III. Evolution de Wifi : le Wifi 6
 
 `## Historique des articles :
 
