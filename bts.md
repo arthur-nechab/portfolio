@@ -13,22 +13,22 @@ Il aura également la tâche d’anticiper les besoins d’évolution de l’inf
 
 **Solutions d’infrastructure, systèmes et réseaux :**
 
-– Maintenance des accès utilisateurs
-– Conception des infrastructures réseaux
-– Exploitation des services
-– Administration des systèmes
-– Supervision des réseaux
-– Projets personnalisés encadrés
+- Maintenance des accès utilisateurs
+- Conception des infrastructures réseaux
+- Exploitation des services
+- Administration des systèmes
+- Supervision des réseaux
+- Projets personnalisés encadrés
 
 **Solutions informatiques :**
 
-– Support système des accès utilisateurs
-– Support réseau des accès utilisateurs
-– Exploitation des données
-– Base de la programmation
-– Support des services et des serveurs
-– Développement d’applications
-– Intégration et adaptation d’un service
+- Support système des accès utilisateurs
+- Support réseau des accès utilisateurs
+- Exploitation des données
+- Base de la programmation
+- Support des services et des serveurs
+- Développement d’applications
+- Intégration et adaptation d’un service
 
 **Pôle général – Culture générale et expression :**
 
