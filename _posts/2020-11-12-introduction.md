@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acceuil
+title: Bienvenue !
 ---
 
 Dans le cadre de la préparation du BTS SIO option SISR (Solutions d’infrastructure, systèmes et réseaux) au sein d'ITIC Paris, ce portfolio a pour but de mettre en ligne mes compétences informatiques acquises en formation et en stage et de centraliser mes différents travaux.
