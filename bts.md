@@ -3,7 +3,7 @@ layout: page
 title: BTS
 ---
 
-[image](https://studyadv.s3.amazonaws.com/production/schools/images/000/006/066/original/Logo-ITIC-Paris_kit_com.png)
+![image](https://studyadv.s3.amazonaws.com/production/schools/images/000/006/066/original/Logo-ITIC-Paris_kit_com.png)
 
 Le Brevet de Technicien Supérieur aux Services Informatiques aux Organisations, s'adresse à ceux qui souhaitent se former en deux ans aux métiers d'administrateur réseau ou de développeur. Pour par la suite intégrer directement le marché du travail ou continuer des études, dans le domaine de l'informatique.
 
