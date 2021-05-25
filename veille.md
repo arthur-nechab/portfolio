@@ -14,7 +14,7 @@ La veille technologique consiste à surveiller les évolutions techniques, les i
 
 ## II. Tri et sélection d'articles en rapport avec le Wifi
 
-Pour le suivi de la veille, j'utilise l'aggrégateur de lien [netvibes](https://www.netvibes.com/). Il permet d'afficher sur un seul tableau de bord plusieurs flux rss afin de surveiller éfficacement les choses qui m'intéresse en ligne.
+Pour le suivi de la veille, j'utilise l'aggrégateur de lien [netvibes](https://www.netvibes.com/). Il permet d'afficher sur un seul tableau de bord plusieurs flux rss afin de surveiller efficacement les choses qui m'intéresse en ligne.
 
 Vous pouvez accéder à mon tableau de bord en cliquant [ici](https://www.netvibes.com/arthuritic#Wifi).
 
