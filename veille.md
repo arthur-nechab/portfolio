@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut est a mauris 
 - Avant il existait le Wifi a, b, g, n, ac, ax ou ah
 - Maintenant : n = Wifi 4, ac = Wifi 5, ax = Wifi 6
 
-### a. Les usages
+### b. Les usages
 
 - Il permet de remplacer les câbles
 
