@@ -4,9 +4,13 @@ title: Présentation
 ---
 <br/>
 
-Je m'appelle Arthur NECHAB et j'ai 21 ans.
+**NOM :** NECHAB
 
-Ce que j'ai appris pendant ma formation :
+**Prénom :** Arthur
+
+**Âge :** 21 ans
+
+Ce que j'ai appris pendant ma formation à ITIC Paris :
 
 - Virtualisation : Proxmox, VirtualBox et VMWare. 
 - Installation de services (Ubuntu) : Librenms, OCS, GLPI, Graylog, Bareos, Fog, Apache, Zimbra 
