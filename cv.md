@@ -3,8 +3,15 @@ layout: page
 title: Présentation
 ---
 <br/>
-Etiam bibendum arcu sed nunc vehicula consequat. Donec consequat, dui a porttitor tincidunt, sem erat bibendum elit, sed tincidunt elit tortor ac orci.
-Proin euismod sapien sit amet neque sodales feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam et ipsum neque.
-Fusce eu magna in nisi tristique aliquet. Vivamus felis enim, consequat sit amet finibus sit amet, eleifend nec nunc. Etiam at odio a erat porta tempor eget ut enim.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Nam tortor lectus, laoreet vitae sem a, scelerisque interdum urna !
+
+Je m'appelle Arthur NECHAB et j'ai 21 ans.
+
+Ce que j'ai appris pendant ma formation :
+
+- Virtualisation : Proxmox, VirtualBox et VMWare. 
+- Installation de services (Ubuntu) : Librenms, OCS, GLPI, Graylog, Bareos, Fog, Apache, Zimbra 
+- Installation de services (Windows) : AD DS, DHCP, DNS, IIS
+- Base de données : MySQL, MariaDB
+- Configuration routeur/pare-feu pfSense : VPN, DMZ, NAT, CARP, Portail Captif 
+- Cisco : SSH, RIP, OSPF, VLAN, IPv4, IPv6
+
