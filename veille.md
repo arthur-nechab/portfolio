@@ -5,6 +5,8 @@ title: Veille
 
 # Veille technologique
 
+![wifi](https://i.imgur.com/ahgdZmI.png)
+
 La veille technologique consiste à surveiller les évolutions techniques, les innovations dans un secteur d’activité donné. La veille technologique comprend notamment la surveillance, la collecte, le partage et la diffusion d’information dans le but de les analyser et ainsi faire apparaitre des tendances et des corrélations. L’analyse des données collectées permet d’anticiper et de s’informer sur les changements en matière de recherche et développement.
 
 > **Pourquoi avoir choisi le Wifi ?**
@@ -31,6 +33,8 @@ La veille technologique consiste à surveiller les évolutions techniques, les i
 Pour le suivi de la veille, j'utilise l'agrégateur de lien [netvibes](https://www.netvibes.com/). Il permet d'afficher sur un seul tableau de bord plusieurs flux rss afin de surveiller efficacement les choses qui m'intéresse en ligne.
 
 Vous pouvez accéder à mon tableau de bord en cliquant [ici](https://www.netvibes.com/arthuritic#Wifi).
+
+![netvibes](https://i.imgur.com/ieh95TK.jpg)
 
 Je lis aussi quotidiennement sur des journaux ou des forum l’actualité d’informatique en général.
 
