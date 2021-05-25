@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Présentation
 ---
 
 Etiam bibendum arcu sed nunc vehicula consequat. Donec consequat, dui a porttitor tincidunt, sem erat bibendum elit, sed tincidunt elit tortor ac orci.
