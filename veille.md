@@ -8,7 +8,8 @@ title: Veille
 La veille technologique consiste à surveiller les évolutions techniques, les innovations dans un secteur d’activité donné. La veille technologique comprend notamment la surveillance, la collecte, le partage et la diffusion d’information dans le but de les analyser et ainsi faire apparaitre des tendances et des corrélations. L’analyse des données collectées permet d’anticiper et de s’informer sur les changements en matière de recherche et développement.
 
 > **Pourquoi avoir choisi le Wifi ?**
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut est a mauris eleifend pretium. Sed ultricies commodo convallis. Donec sagittis lorem id convallis varius. Morbi viverra a mi ut dapibus.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut est a mauris eleifend pretium. 
+> Sed ultricies commodo convallis. Donec sagittis lorem id convallis varius. Morbi viverra a mi ut dapibus.
 
 ## I. Présentation du Wifi
 
