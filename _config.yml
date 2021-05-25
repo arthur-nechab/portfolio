@@ -37,20 +37,23 @@ version: 3.0.0
 # Navbar page list
 nav:
 
+- title: Présentation
+  url: /cv
+
 - title: BTS
   url: /bts
+  
+- title: Stage
+  url: /stage
+
+- title: Veille
+  url: /veille
   
 - title: E4
   url: /e4
 
 - title: E6
   url: /e6
- 
-- title: Stage
-  url: /stage
-
-- title: Veille
-  url: /veille
 
 - title: Doc
   url: /doc
