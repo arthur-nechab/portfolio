@@ -4,6 +4,10 @@ title: Présentation
 ---
 <br/>
 
+![photo](https://i.imgur.com/JdII2eH.jpg)
+
+<br/>
+
 **NOM :** NECHAB
 
 **Prénom :** Arthur
