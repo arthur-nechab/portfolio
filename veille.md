@@ -7,7 +7,7 @@ title: Veille
 
 <br/>
 
-![wifi](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F441%2F701%2Fnon_2x%2Fwifi-vector-icon.jpg)
+![wifi](https://i.imgur.com/ahgdZmI.png)
 
 <br/>
 
