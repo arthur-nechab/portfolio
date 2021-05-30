@@ -6,9 +6,11 @@ title: Stage
 
 ![copytop](https://i.imgur.com/lSnvyPV.png)
 
-COPY-TOP est une entreprise qui propose plusieurs types d'impressions. Ses agences sont principalement à Paris et dans quelques villes (Lyon, Strasbourg et Marseille). 
+- J'ai fait mon stage en tant que technicien support chez COPY-TOP, une entreprise spécialisée dans l'impression et les services liés.
+- Elle possède 35 agences principalement à Paris et dans quelques villes (Lyon, Strasbourg et Marseille).
+- Développement digital important.
 
-Stage de Juillet 2020 à Août 2020 en tant que technicien support dans le service informatique.
+
 
 - Gestion d’incidents à distance (Windows 10, SDWAN Meraki, applications métiers, téléphonie)
 - Intervention en agence (déploiement poste, remplacement équipement défectueux, installation boîte 4g)  
