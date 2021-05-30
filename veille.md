@@ -7,7 +7,7 @@ title: Veille
 
 <br/>
 
-![wifi](https://i.imgur.com/ahgdZmI.png)
+![wifi](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F441%2F701%2Fnon_2x%2Fwifi-vector-icon.jpg)
 
 <br/>
 
@@ -32,7 +32,7 @@ La veille technologique consiste à surveiller les évolutions techniques, les i
 
 - Il permet de remplacer les câbles
 
-## II. Tri et sélection d'articles en rapport avec le Wifi
+## II. Tri d'articles en rapport avec le Wifi
 
 Pour le suivi de la veille, j'utilise l'agrégateur de lien [netvibes](https://www.netvibes.com/). Il permet d'afficher sur un seul tableau de bord plusieurs flux rss afin de surveiller efficacement les choses qui m'intéresse en ligne.
 
@@ -42,7 +42,7 @@ Vous pouvez accéder à mon tableau de bord en cliquant [ici](https://www.netvib
 
 Je lis aussi quotidiennement sur des journaux ou des forum l’actualité d’informatique en général.
 
+## III. Sélection d'articles en rapport avec le Wifi
+
 - 01/04/2021 : Le groupe de travail 802.11bf de l'IEEE travaille sur la prochaine norme WiFi prévue pour 2024. La possibilité d'utiliser les équipements sans-fil pour détecter et suivre la présence humaine ou d'autres activités est étudiée. Si des améliorations sont à prévoir, il reste à régler les questions de sécurité et de respect de la vie privée.
 Source : [lemondeinformatique](https://www.lemondeinformatique.fr/actualites/lire-avec-80211bf-des-equipements-wifi-transformes-en-capteurs-82470.html)
-
-## III. Evolution du Wifi : le Wifi 6
