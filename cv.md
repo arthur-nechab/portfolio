@@ -4,7 +4,7 @@ title: Présentation
 ---
 <br/>
 
-![photo](https://i.imgur.com/JdII2eH.jpg)
+![photo](https://i.imgur.com/YUsvAno.png)
 
 <br/>
 
