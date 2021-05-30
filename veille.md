@@ -50,6 +50,6 @@ Source : [lemondeinformatique](https://www.lemondeinformatique.fr/actualites/lir
 - 19/06/2020 Comment connaître son type de sécurité WiFi et lequel est le meilleur ? La sécurité est au cœur des préoccupations des utilisateurs ces dernières années, et le WiFi est un élément essentiel à prendre en compte dans sa stratégie de protection. Cependant, il n’est pas toujours simple de s’y retrouver parmi toutes les dénominations. On vous explique tout ce qu’il faut savoir sur le sujet.
 Source : [lemondeinformatique](https://www.phonandroid.com/wpa-wpa2-wpa3-comment-connaitre-son-type-de-securite-wifi.html)
 
-**Quel est la prochaine norme Wi-fi ?**
+**Quelle est la prochaine norme Wi-fi ?**
 - 01/04/2021 : Le groupe de travail 802.11bf de l'IEEE travaille sur la prochaine norme WiFi prévue pour 2024. La possibilité d'utiliser les équipements sans-fil pour détecter et suivre la présence humaine ou d'autres activités est étudiée. Si des améliorations sont à prévoir, il reste à régler les questions de sécurité et de respect de la vie privée.
 Source : [lemondeinformatique](https://www.lemondeinformatique.fr/actualites/lire-avec-80211bf-des-equipements-wifi-transformes-en-capteurs-82470.html)
