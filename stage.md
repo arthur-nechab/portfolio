@@ -37,7 +37,7 @@ J'ai travaillé dans la Direction Technique (DT), qui est composé des service i
 
 ### V/ Mise en place d'une documentation utilisateur
 - Guide sur l'utilisation de Microsoft Teams
-- **Doc :**[COPY-TOP_Teams.pdf](https://drive.google.com/file/d/114DIX71ec9tkZBdUmI3g8XWLODGSmLg1/view?usp=sharing)
+- **Doc :** [COPY-TOP_Teams.pdf](https://drive.google.com/file/d/114DIX71ec9tkZBdUmI3g8XWLODGSmLg1/view?usp=sharing)
 
 ### VI/ Scripting VBA 
 - Vérification de l'existence d'un dossier.
