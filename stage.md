@@ -26,15 +26,15 @@ J'ai travaillé dans la Direction Technique (DT), qui est composé des service i
 
 ### III/ Inventaire matériel (scripting powershell)
 - Activation de Windows Remote sur les PC et récupération de certaines informations.
-- [**enableWinRM**](https://doc.arthur-nechab.fr/powershell/enableWinRM.html)
-- [**getSerial**](https://doc.arthur-nechab.fr/powershell/getSerial.html)
+- [enableWinRM](https://doc.arthur-nechab.fr/powershell/enableWinRM.html)
+- [getSerial](https://doc.arthur-nechab.fr/powershell/getSerial.html)
 
 ### IV/ Reconfiguration réseau (branchement, étiquetage, brassage et configuration sur switch)
 
 ### V/ Mise en place d'une documentation utilisateur
 - Guide sur l'utilisation de Microsoft Teams
-- [**Lien**](https://drive.google.com/file/d/114DIX71ec9tkZBdUmI3g8XWLODGSmLg1/view?usp=sharing)
+- [COPY-TOP_Teams.pdf](https://drive.google.com/file/d/114DIX71ec9tkZBdUmI3g8XWLODGSmLg1/view?usp=sharing)
 
 ### VI/ Scripting VBA 
-- Exportation et traitement d’emails outlook
-- [**Code source**](#)
+- Vérification de l'existence d'un dossier.
+- [ifExist](https://github.com/arthur-nechab/documentation/blob/master/ifExist.md)
