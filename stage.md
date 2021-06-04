@@ -6,12 +6,35 @@ title: Stage
 
 ![copytop](https://i.imgur.com/lSnvyPV.png)
 
-J'ai fait mon stage en tant que technicien support chez COPY-TOP, une entreprise spécialisée dans l'impression et les services liés.
-Elle possède 35 agences principalement à Paris et dans quelques villes (Lyon, Strasbourg et Marseille).
-Développement digital important.
+J'ai fait mon stage en tant que technicien support chez COPY-TOP, une entreprise spécialisée dans l'impression et les services liés, de la carte de visite aux grands formats, en passant par la finition et les goodies.
+Elle possède 40 agences principalement à Paris et dans quelques villes (Lyon, Strasbourg et Marseille) ainsi qu'un centre de production dans la banlieue parisienne.
+J'ai travaillé dans la Direction Technique (DT), qui est composé des service informatiques, généraux et qualités.
 
-- Gestion d’incidents à distance (Windows 10, SDWAN Meraki, applications métiers, téléphonie)
-- Intervention en agence (déploiement poste, remplacement équipement défectueux, installation boîte 4g)  
-- Inventaire matériel (scripting powershell) 
-- Reconfiguration réseau (branchement, étiquetage, brassage et configuration sur switch) 
-- Scripting VBA (exportation et traitement d’emails outlook) 
+## Mes missions
+
+### I/ Gestion d’incidents à distance 
+- **Sur plusieurs support :** Windows 10, SDWAN Meraki, applications métiers, téléphonie
+- **Outil de ticketing** (Ivanti)
+- **Outil de communication** (Fuze)
+- **Outil de connexion à distance** (mRemoteNG)
+- **Autres outils** (Advanced IP Scanner, Evernote, Greenshot)
+
+### II/ Intervention en agence 
+- **Déploiement poste** (Installation des outils nécessaires pour le travail à distance sur plusieurs PC)
+- **Remplacement équipement défectueux** (Onduleur)
+- **Installation boîte 4G**
+
+### III/ Inventaire matériel (scripting powershell)
+- Activation de Windows Remote sur les PC et récupération de certaines informations.
+- [**enableWinRM**](https://doc.arthur-nechab.fr/powershell/enableWinRM.html)
+- [**getSerial**](https://doc.arthur-nechab.fr/powershell/getSerial.html)
+
+### IV/ Reconfiguration réseau (branchement, étiquetage, brassage et configuration sur switch)
+
+### V/ Mise en place d'une documentation utilisateur
+- Guide sur l'utilisation de Microsoft Teams
+- [**Lien**](https://drive.google.com/file/d/114DIX71ec9tkZBdUmI3g8XWLODGSmLg1/view?usp=sharing)
+
+### VI/ Scripting VBA 
+- Exportation et traitement d’emails outlook
+- [**Code source**](#)
