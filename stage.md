@@ -41,4 +41,4 @@ J'ai travaillé dans la Direction Technique (DT), qui est composé des service i
 
 ### VI/ Scripting VBA 
 - Vérification de l'existence d'un dossier.
-- **Script :**[ifExist](https://github.com/arthur-nechab/documentation/blob/master/ifExist.md)
+- **Script :** [ifExist](https://github.com/arthur-nechab/documentation/blob/master/ifExist.md)
